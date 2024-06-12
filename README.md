@@ -30,7 +30,7 @@ files, input data matrices are treated similarly to images in a Convolutional Ne
 [www.HEPSYCODE.com](https://hepsycode.github.io/)
 
 ### DOWNLOAD
-SLIDE-x-ML is open-source and freely available on GitHub: https://github.com/hepsycode/SLIDE-x-ML-ICCD.
+SLIDE-x-ML is open-source and freely available on GitHub: https://github.com/hepsycode/SLIDE-x-ML-ESL.
 
 ### GETTING STARTED GUIDELINES
 The framework is implemented in Python3 and uses the csv, os, shutil, subprocess, tkinter libraries for internal operations. Thus, Python3 and the above-listed libraries should be installed for the framework to run properly. 
@@ -42,11 +42,11 @@ Latest Release: 2.0.0
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 (see https://www.gnu.org/licenses/gpl-3.0.en.html)
  
 ### DEVELOPER RESOURCES
-Source Repositories: [https://github.com/hepsycode/SLIDE-x-ML](https://github.com/hepsycode/SLIDE-x-ML-ICCD)
+Source Repositories: [https://github.com/hepsycode/SLIDE-x-ML](https://github.com/hepsycode/SLIDE-x-ML-ESL)
 
 - Clone: 
-    - ssh: [git@github.com:hepsycode/SLIDE-x-ML.git](git@github.com:hepsycode/SLIDE-x-ML-ICCD.git)
-    - https: [https://github.com/hepsycode/SLIDE-x-ML.git](https://github.com/hepsycode/SLIDE-x-ML-ICCD.git)
+    - ssh: [git@github.com:hepsycode/SLIDE-x-ML.git](git@github.com:hepsycode/SLIDE-x-ML-ESL.git)
+    - https: [https://github.com/hepsycode/SLIDE-x-ML.git](https://github.com/hepsycode/SLIDE-x-ML-ESL.git)
  
 You can use the code from these repositories to experiment, test, build, and create patches, and issue pull requests (only by request).
 For any bug or doubt, contact us or open an issue.
