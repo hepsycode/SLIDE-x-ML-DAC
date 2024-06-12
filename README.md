@@ -1,5 +1,5 @@
 # SLIDE-x-ML
-**S**ystem-**L**evel **I**nfrastructure for HW **D**ataset **E**-**x**traction and **M**achine **L**earning Model Building
+**S**ystem-**L**evel **I**nfrastructure for HW/SW **D**ataset **E**-**x**traction and **M**achine **L**earning Model Building
 
 <p><img src="img/SLIDE-x-ML-logo.png" width="250" height="250"></p>
 
