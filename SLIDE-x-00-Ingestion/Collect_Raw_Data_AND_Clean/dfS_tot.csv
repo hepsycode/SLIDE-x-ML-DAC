@@ -1,8 +1,0 @@
-;DEVICE;FUNCTION;DATA_TYPE;DATA_START;DATA_RANGE;RANGE_S
-1;Bambu;bs;float;2.0;30.0;3
-2;Bambu;bs;double;2.0;30.0;3
-3;Bambu;select;float;2.0;0.0;3
-4;Bambu;select;double;2.0;0.0;3
-5;Bambu;fibcall;float;2.0;30.0;3
-6;Bambu;lud;float;2.0;30.0;3
-7;Bambu;lud;double;2.0;30.0;3
