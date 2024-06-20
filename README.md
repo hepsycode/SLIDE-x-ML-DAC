@@ -55,7 +55,7 @@ We currently support:
 
  1. Email: 
     - Vittoriano Muttillo:
-       - vittoriano.muttillo@univaq.it,
+       - vittoriano.muttillo@guest.univaq.it,
        - vmuttillo@unite.it
        - vittoriano.muttillo@gmail.com
     - Vincenzo Stoico:
