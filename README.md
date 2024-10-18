@@ -67,4 +67,4 @@ We currently support:
 Research publications are available at https://hepsycode.github.io/.
 
 ## How to Cite?
-If you use SLIDE-x-ML in your research, please cite: #REMOVED FOR DOUBLE BLIND REVIEW#
+If you use SLIDE-x-ML in your research, please cite: **REMOVED FOR DOUBLE BLIND REVIEW**
