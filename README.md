@@ -1,5 +1,5 @@
 # SLIDE-x-ML-ESL
-**S**ystem-**L**evel **I**nfrastructure for HW/SW **D**ataset **E**-**x**traction and **M**achine **L**earning Model Building (Version for Embedded System Letters)
+**S**ystem-**L**evel **I**nfrastructure for HW/SW **D**ataset **E**-**x**traction and **M**achine **L**earning Model Building (Version for the 61st Design Automation Conference)
 
 <p><img src="img/SLIDE-x-ML-logo-New.png" width="250" height="250"></p>
 
@@ -51,7 +51,7 @@ You can use the code from these repositories to experiment, test, build, and cre
 For any bug or doubt, contact us or open an issue.
 
 ### SUPPORT
-We currently support: 
+We currently support:
 
  1. Email: 
     - Vittoriano Muttillo:
