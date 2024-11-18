@@ -1,0 +1,7 @@
+;DEVICE;FUNCTION;DATA_TYPE;DATA_START;DATA_RANGE;RANGE_S
+1;Bambu;astar;float;2.0;30.0;3
+2;Bambu;astar;double;2.0;30.0;3
+3;Bambu;gcd;float;2.0;2147483638.0;3
+4;Bambu;gcd;float;2.0;2147483638.0;3
+5;Bambu;gcd;double;2.0;9.223372036854776e+18;3
+6;Bambu;gcd;double;2.0;9.223372036854776e+18;3

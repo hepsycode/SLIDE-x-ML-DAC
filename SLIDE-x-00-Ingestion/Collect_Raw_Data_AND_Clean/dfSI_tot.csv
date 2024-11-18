@@ -1,0 +1,17 @@
+;DEVICE;FUNCTION;DATA_TYPE;DATA_START;DATA_RANGE;RANGE_SI
+1;Bambu;astar;float;2.0;30.0;3
+2;Bambu;astar;double;2.0;30.0;3
+3;Bambu;banker_algorithm;float;2.0;30.0;3
+4;Bambu;banker_algorithm;double;2.0;30.0;3
+5;Bambu;bellmanford;float;2.0;30.0;3
+6;Bambu;bellmanford;double;2.0;30.0;3
+7;Bambu;bfs;float;2.0;30.0;3
+8;Bambu;bfs;double;2.0;30.0;3
+9;Bambu;floydwarshall;float;2.0;30.0;3
+10;Bambu;floydwarshall;double;2.0;30.0;3
+11;Bambu;kruskal;float;2.0;18.0;3
+12;Bambu;kruskal;double;2.0;13.0;3
+13;Bambu;mergesort;float;2.0;30.0;3
+14;Bambu;mergesort;double;2.0;30.0;3
+15;Bambu;selectionsort;float;2.0;30.0;3
+16;Bambu;selectionsort;double;2.0;30.0;3
